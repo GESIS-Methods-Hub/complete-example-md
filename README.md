@@ -1,4 +1,4 @@
-# Minimal Example of Tutorial in Markdown
+# Complete Example of Tutorial in Markdown
 
 [index.md](index.md) show all the **required** metadata used by Methods Hub.
 
