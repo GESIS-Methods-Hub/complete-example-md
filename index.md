@@ -1,5 +1,5 @@
 ---
-title: "Minimal Example of Tutorial in Markdown"
+title: "Complete Example of Tutorial in Markdown"
 author:
   - name: Raniere Silva
 ---
