@@ -22,6 +22,7 @@ author:
         department: Computational Social Science
         team: Transparent Social Analytics
         url: https://www.gesis.org
+image: img/cover.jpg
 ---
 
 This example demonstrates the complete set of metadata supported by Methods Hub. We use Quarto's [Author Schema](https://quarto.org/docs/journals/authors.html#author-schema) and [Affiliations Schema](https://quarto.org/docs/journals/authors.html#affiliations-schema) but we only render a subset of the information.
